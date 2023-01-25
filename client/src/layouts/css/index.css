@@ -1,0 +1,13 @@
+#footer {
+  background-color: #1A1A1A;
+  padding: 50px;
+}
+#footer .foot {
+  display: flex;
+}
+#footer .foot p {
+  color: #A5A5A5;
+}
+#footer .foot p span {
+  color: blue;
+}/*# sourceMappingURL=index.css.map */

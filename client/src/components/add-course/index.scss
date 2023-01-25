@@ -1,0 +1,29 @@
+#form{
+      background-color: #EAEBEC;
+      position: relative;
+      padding: 200px 300px;
+      form{
+            // position: absolute;
+            // top: 150px;
+            // left: 250px;
+            background-color: #EAEBEC;
+            input {
+                        margin: 15px 0;
+                        width: 522px;
+                        padding: 15px 25px;
+                        border: none;
+                        outline-color: #FFB606;
+                        display: block;
+                  }
+            
+                  button {
+                        width: 522px;
+                        background-color: #FFB606;
+                        color: white;
+                        padding: 15px 0;
+                        font-weight: 700;
+                        border: none;
+                        cursor: pointer;
+                  }
+      }
+}
